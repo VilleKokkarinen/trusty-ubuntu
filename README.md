@@ -12,7 +12,7 @@ TCP/IP access to the database, ->LAN
 *eg. 100 Tables, 10 columns each, produces a file of approx: 50KB, in Size
 
 
-# Software requirements:
+## Software requirements:
 - Possibly system admin rights
 
 - Linux based OS
@@ -49,7 +49,7 @@ TCP/IP access to the database, ->LAN
 (Sudo)* /home/user/downloads/Program/APP.exe 
 
 
-# Built With
+## Built With
 
 - MonoDevelop
 
@@ -58,18 +58,18 @@ TCP/IP access to the database, ->LAN
 - C# Language
 
 
-# Versioning
+## Versioning
 
 For the available versions, use the [github](https://github.com/VilleKokkarinen/trusty-ubuntu.git)
 
 Current Version: 1.0.0
 
-# Authors
+## Authors
 
 * [Ville Kokkarinen](https://github.com/VilleKokkarinen) ## LINUX EDITION ##
 * 
 
-# License
+## License
 
 This project is licensed under the MIT License
  
