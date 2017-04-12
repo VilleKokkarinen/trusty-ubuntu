@@ -36,9 +36,9 @@ TCP/IP access to the database, ->LAN
  
   - sudo apt-get install mono-complete
   
-  - * sudo apt-get install mono-devel
+  	- sudo apt-get install mono-devel
  
- *should be installed to compile code.
+ 	- should be installed to compile code.
 
 
 - Extract the package to a chosen directory
