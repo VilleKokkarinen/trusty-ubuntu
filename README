@@ -34,11 +34,6 @@ TCP/IP access to the database, ->LAN
 
 - Mono (.Net Framework for Linux)	http://www.mono-project.com/
 
-- Installing Mono			http://www.mono-project.com/docs/getting-started/install/linux/
-
-1. Installing Mono:  
-  1) sudo apt-get update
-  2) sudo apt-get install mono-complete
 
 
 - .DLL files included with the program
@@ -46,13 +41,24 @@ TCP/IP access to the database, ->LAN
 
 
 ## Deployment
+- Installing Mono			http://www.mono-project.com/docs/getting-started/install/linux/
 
-Run the program from terminal:
-(Sudo) /home/user/downloads/Program/APP.exe
+1. Installing Mono:  
+  1) sudo apt-get update
+  2) sudo apt-get install mono-complete
+
+
+- Extract the package to a chosen directory
+
+
+- Run the program from terminal (Default location*):
+(Sudo)* /home/user/downloads/Program/APP.exe 
 
 
 ## Built With
-MonoDevelop
+- MonoDevelop
+- Visual studio
+- C# Language
 
 
 ## Contributing
