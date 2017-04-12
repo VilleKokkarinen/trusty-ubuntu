@@ -1,11 +1,3 @@
-		Console Application
-	      Retrieves Metadata From
-	     FireBird or SQL Databases
-	      Linux Edition V:1.0.0
-
-
-
-
 # Recommended hardware requirements:
 2 GHZ Dual core processor or better
 2 GB  System memory
