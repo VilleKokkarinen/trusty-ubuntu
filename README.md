@@ -60,13 +60,13 @@ TCP/IP access to the database, ->LAN
 
 # Versioning
 
-For the available versions, use the github: https://github.com/VilleKokkarinen/trusty-ubuntu.git
+For the available versions, use the [github](https://github.com/VilleKokkarinen/trusty-ubuntu.git)
 
 Current Version: 1.0.0
 
 # Authors
 
-* Ville Kokkarinen (https://github.com/VilleKokkarinen) ## LINUX EDITION ##
+* [Ville Kokkarinen](https://github.com/VilleKokkarinen) ## LINUX EDITION ##
 * 
 
 # License
