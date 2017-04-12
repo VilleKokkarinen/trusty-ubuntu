@@ -1,0 +1,26 @@
+#####################################
+############ Known Bugs #############
+#####################################
+
+#####################################
+#######  Console Application  #######
+#####  Retrieves Metadata From  #####
+####  FireBird or SQL Databases   ###
+######  Linux Edition V:1.0.0  ######
+#####################################
+
+### Known bugs ###
+
+1. Upon startup, if pressing a key before the program asks the user to choose a DB type, will CRASH
+
+2. Upon specifying DB type
+
+
+3.
+
+4.
+
+5.
+
+6.
+
