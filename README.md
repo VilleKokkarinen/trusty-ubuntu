@@ -1,6 +1,8 @@
 # Recommended hardware requirements:
 2 GHZ Dual core processor or better
+
 2 GB  System memory
+
 1 GB  of free HDD space *
 
 TCP/IP access to the database, ->LAN
