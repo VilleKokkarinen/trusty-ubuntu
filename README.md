@@ -8,6 +8,7 @@
 TCP/IP access to the database, ->LAN
 
 *May vary depending on the size of database
+
 *eg. 100 Tables, 10 columns each, produces a file of approx: 50KB, in Size
 
 
@@ -16,10 +17,10 @@ TCP/IP access to the database, ->LAN
 
 - Linux based OS
 	Eg.
-	-Ubuntu 16.04.2 LTS		https://www.ubuntu.com/download
+	-Ubuntu [16.04.2 LTS]		(https://www.ubuntu.com/download)
 
 
-- Mono (.Net Framework for Linux)	http://www.mono-project.com/
+- [Mono] (.Net Framework for Linux)	(http://www.mono-project.com/)
 
 - .DLL files included with the program
 
