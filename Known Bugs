@@ -10,6 +10,6 @@ V 1.0.0
 
 4. Upon entering Databasenames, will show all databases, even ones the user might not have access to, and upon accessing
 these databases, WILL CRASH
-4. Databasenames must be divided with a [ ] "SPACE" otherwise they will be melted together
+4.1 Databasenames must be divided with a [ ] "SPACE" otherwise they will be melted together
 
 5. Upon choosing to open the created file, won't close the terminal after the selection
