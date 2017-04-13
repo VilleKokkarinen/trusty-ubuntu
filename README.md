@@ -11,8 +11,8 @@ TCP/IP access to the database, ->LAN
 
 *eg. 100 Tables, 10 columns each, produces a file of approx: 50KB, in Size
 
-
-
+ 
+ 
 ## Software requirements:
 -- Possibly system admin rights
 
@@ -24,8 +24,9 @@ TCP/IP access to the database, ->LAN
 
 -- .DLL files included with the program
 
-
-
+ 
+ 
+ 
 # Deployment
 
 -- Install [Mono](Http://www.mono-project.com/docs/getting-started/install/linux/)
@@ -39,8 +40,8 @@ TCP/IP access to the database, ->LAN
   -- sudo apt-get install mono-devel
  
  	should be installed to compile code.
-
-
+ 
+ 
 -- Extract the package to a chosen directory
 
 
@@ -48,8 +49,9 @@ TCP/IP access to the database, ->LAN
 
 ./home/user/downloads/Program/APP.exe 
 
-
-
+ 
+ 
+ 
 ## Built With
 
 -- MonoDevelop
@@ -58,15 +60,15 @@ TCP/IP access to the database, ->LAN
 
 -- C# Language
 
-
-
+ 
+ 
 ## Versioning
 
 For the available versions, use the [github](https://github.com/VilleKokkarinen/trusty-ubuntu.git)
 
 Current Version: 1.0.0
-
-
+ 
+ 
 
 ## Authors
 
@@ -74,8 +76,8 @@ Current Version: 1.0.0
 
 -- [KiKizKi](https://github.com/kikizki) ## WINDOWS EDITION ##
 
-
-
+ 
+ 
 ## License
 
 This project is licensed under the MIT License
