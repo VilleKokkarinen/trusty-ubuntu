@@ -64,6 +64,7 @@ Current Version: 1.0.0
 ## Authors
 
 -- [Ville Kokkarinen](https://github.com/VilleKokkarinen) ## LINUX EDITION ##
+
 -- [KiKizKi](https://github.com/kikizki) ## WINDOWS EDITION ##
 
 ## License
