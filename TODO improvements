@@ -24,3 +24,14 @@
 6. Merge the whole program into a single .executable
 
 
+
+
+
+## TODO improvements into V: 1.0.2 ##
+Possibly a GUI
+
+Improved performance
+
+Automatic data fetching, everytime a update happens within a database, replace old file.
+
+Add dates to the file
