@@ -13,49 +13,49 @@ TCP/IP access to the database, ->LAN
 
 
 ## Software requirements:
-> Possibly system admin rights
+-- Possibly system admin rights
 
-> Linux based OS
+-- Linux based OS
 
 	Eg.
 	
-	> Ubuntu [16.04.2 LTS](https://www.ubuntu.com/download)
+	- Ubuntu [16.04.2 LTS](https://www.ubuntu.com/download)
 
 
-> [Mono](http://www.mono-project.com/) (.Net Framework for Linux)
+-- [Mono](http://www.mono-project.com/) (.Net Framework for Linux)
 
-> .DLL files included with the program
+-- .DLL files included with the program
 
 # Deployment
 
-> Install [Mono](Http://www.mono-project.com/docs/getting-started/install/linux/)
+-- Install [Mono](Http://www.mono-project.com/docs/getting-started/install/linux/)
 
-> Installing Mono via terminal:  
+-- Installing Mono via terminal:  
 
-  > sudo apt-get update
+  - sudo apt-get update
  
-  > sudo apt-get install mono-complete
+  - sudo apt-get install mono-complete
   
-  	> sudo apt-get install mono-devel
+  	- sudo apt-get install mono-devel
  
- 	> should be installed to compile code.
+ 	- should be installed to compile code.
 
 
-> Extract the package to a chosen directory
+-- Extract the package to a chosen directory
 
 
-> Run the program from terminal (Default location*):
+-- Run the program from terminal (Default location*):
 
 (Sudo)* /home/user/downloads/Program/APP.exe 
 
 
 ## Built With
 
-> MonoDevelop
+-- MonoDevelop
 
-> Visual studio
+-- Visual studio
 
-> C# Language
+-- C# Language
 
 
 ## Versioning
@@ -66,8 +66,8 @@ Current Version: 1.0.0
 
 ## Authors
 
-> [Ville Kokkarinen](https://github.com/VilleKokkarinen) ## LINUX EDITION ##
-> 
+-- [Ville Kokkarinen](https://github.com/VilleKokkarinen) ## LINUX EDITION ##
+-- 
 
 ## License
 
