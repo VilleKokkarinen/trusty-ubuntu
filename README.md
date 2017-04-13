@@ -17,10 +17,7 @@ TCP/IP access to the database, ->LAN
 
 -- Linux based OS
 
-	Eg.
-	
-	- Ubuntu [16.04.2 LTS](https://www.ubuntu.com/download)
-
+-- EG. Ubuntu [16.04.2 LTS](https://www.ubuntu.com/download)
 
 -- [Mono](http://www.mono-project.com/) (.Net Framework for Linux)
 
@@ -32,13 +29,13 @@ TCP/IP access to the database, ->LAN
 
 -- Installing Mono via terminal:  
 
-  - sudo apt-get update
+  -- sudo apt-get update
  
-  - sudo apt-get install mono-complete
+  -- sudo apt-get install mono-complete
   
-  	- sudo apt-get install mono-devel
+  	-- sudo apt-get install mono-devel
  
- 	- should be installed to compile code.
+ 	-- should be installed to compile code.
 
 
 -- Extract the package to a chosen directory
@@ -46,7 +43,7 @@ TCP/IP access to the database, ->LAN
 
 -- Run the program from terminal (Default location*):
 
-(Sudo)* /home/user/downloads/Program/APP.exe 
+./home/user/downloads/Program/APP.exe 
 
 
 ## Built With
