@@ -15,6 +15,7 @@ these databases, WILL CRASH
 4.1 Databasenames must be divided with a [ ] "SPACE" otherwise they will be melted together
 
 5. Upon choosing to open the created file, won't close the terminal after the selection
+5 = FIXED in 1.0.1 version, still asks user to press any key (?)
 
 6. If the DATABASE has tables named with same names as SQL uses them as keywords, will not include them in the results.
 6 = FIXED in 1.0.1 Version
