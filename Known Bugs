@@ -3,10 +3,12 @@ V 1.0.0
 ### Known bugs ###
 
 1. Upon startup, if pressing a key before the program asks the user to choose a DB type, WILL CRASH
+1 = FIXED in 1.0.1 Version
 
 2. Upon specifying DB type, if entering anything else than [1] or [2], WILL CRASH
+2 = FIXED in 1.0.1 Version, does not allow anything else than 1 or 2 as input
 
-3. Upon entering password, if password is incorrect, WILL FREEZE
+3. Upon entering password, if password is incorrect, WILL FREEZE / Crash
 
 4. Upon entering Databasenames, will show all databases, even ones the user might not have access to, and upon accessing
 these databases, WILL CRASH
