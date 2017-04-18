@@ -9,6 +9,8 @@ V 1.0.0
 2 = FIXED in 1.0.1 Version, does not allow anything else than 1 or 2 as input
 
 3. Upon entering password, if password is incorrect, WILL FREEZE / Crash
+3 = FIXED in 1.0.1, if something fails during the user inputs at beginning,
+will start over and ask again infinitely until they are correct
 
 4. Upon entering Databasenames, will show all databases, even ones the user might not have access to, and upon accessing
 these databases, WILL CRASH
