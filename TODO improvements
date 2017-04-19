@@ -11,10 +11,13 @@
 
 ## TODO improvements into V: 1.0.2 ##
 
-Possibly a GUI
+- Fix known bug n.1
 
-Improved performance
 
-Automatic data fetching, everytime a update happens within a database, replace old file.
+* Possibly a GUI
 
-Add dates to the file
+* Improved performance
+
+* Automatic data fetching, everytime a update happens within a database, replace old file.
+
+* Add dates to the file
