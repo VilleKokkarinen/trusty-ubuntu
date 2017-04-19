@@ -1,3 +1,6 @@
 V 1.0.1
 
 ### Known bugs ###
+1. Upon fetching data from databases, if database name is incorrect, will still recognize the name as correct until actually fetching data
+Results in a crash afterwards.
+
