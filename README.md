@@ -47,7 +47,7 @@ TCP/IP access to the database, ->LAN
 
 -- Run the program from terminal (Default location*):
 
-./home/user/downloads/Program/APP.exe 
+./home/user/downloads/Program/APP-1.0.1.exe 
 
  
  
@@ -66,7 +66,7 @@ TCP/IP access to the database, ->LAN
 
 For the available versions, use the [github](https://github.com/VilleKokkarinen/trusty-ubuntu.git)
 
-Current Version: 1.0.0
+Current Version: 1.0.1
  
  
 
