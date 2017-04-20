@@ -5,6 +5,5 @@ V 1.0.1
 Results in a crash afterwards.
 
 2. If entering spaces as database names, gets the data from the first database (master?)
-- ... why would you even do this... ( ͡ᵔ ͜ʖ ͡ᵔ )
-
+- Dont do this, fixes it...
 
