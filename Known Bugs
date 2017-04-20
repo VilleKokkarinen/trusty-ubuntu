@@ -1,7 +1,8 @@
 V 1.0.1
 
 ### Known bugs ###
-1. Upon fetching data from databases, if database name is incorrect, will still recognize the name as correct until actually fetching data
+1. Upon fetching data from databases,
+if database name is incorrect, will still recognize the name as correct until actually fetching data
 Results in a crash afterwards.
 
 2. If entering spaces as database names, gets the data from the first database (master?)
