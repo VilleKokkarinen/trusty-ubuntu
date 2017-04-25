@@ -47,7 +47,7 @@ TCP/IP access to the database, ->LAN
 
 -- Run the program from terminal (Default location*):
 
-./home/user/downloads/Program/APP-1.0.1.exe 
+./home/user/Downloads/V1.0.1 Release/App-V1.0.1.exe
 
  
  
