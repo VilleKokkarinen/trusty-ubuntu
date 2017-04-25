@@ -1,6 +1,8 @@
 ## Downloads
 [Program](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/raw/master/V1.0.1.zip)
+
 [Known Bugs](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/Known%20Bugs)
+
 [TODO for V1.0.2](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/TODO%20improvements)
 
 
