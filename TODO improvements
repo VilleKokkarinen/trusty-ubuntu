@@ -1,17 +1,7 @@
-#####################################
-######## TODO improvements ##########
-#####################################
-
-#####################################
-#######  Console Application  #######
-#####  Retrieves Metadata From  #####
-####  FireBird or SQL Databases   ###
-######  Linux Edition V:1.0.1  ######
-#####################################
-
-## TODO improvements into V: 1.0.2 ##
-
-
+ TODO improvements
+ Edition V:1.0.1
+ 
+ 
 * Possibly a GUI
 
 * Improved performance
