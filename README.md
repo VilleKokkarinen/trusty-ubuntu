@@ -31,7 +31,7 @@ TCP/IP access to the database, ->LAN<br/>
  
 -- Extract the package to a chosen directory<br/>
 -- Run the program from terminal (Default location*):<br/>
-./home/user/Downloads/V1.0.1 Release/App-V1.0.1.exe<br/>
+./home/user/Downloads/V1.0.1 Release/App-V1.0.2.exe<br/>
 <br/>
  
 ## Built With
@@ -42,7 +42,7 @@ TCP/IP access to the database, ->LAN<br/>
 
 ## Versioning
 For the available versions, use the [github](https://github.com/VilleKokkarinen/trusty-ubuntu.git)<br/>
-Current Version: 1.0.1<br/>
+Current Version: 1.0.2<br/>
  <br/>
 ## Authors
 -- [Ville Kokkarinen](https://github.com/VilleKokkarinen) ## LINUX EDITION ##<br/>
