@@ -19,7 +19,7 @@ TCP/IP access to the database, ->LAN
 
 *eg. 100 Tables, 10 columns each, produces a file of approx: 50KB, in Size
 
- %20
+                                               
  
 ## Software requirements:
 -- Possibly system admin rights
