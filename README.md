@@ -1,20 +1,15 @@
 ## Downloads
-[Program](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/raw/master/V1.0.2%20release.zip)
-
-[Known Bugs](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/Known%20Bugs)
-
-[TODO for V1.0.3](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/TODO%20improvements)
-
-
+[Program](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/raw/master/V1.0.2%20release.zip)<br/>
+[Known Bugs](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/Known%20Bugs)<br/>
+[TODO for V1.0.3](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/TODO%20improvements)<br/>
+<br/>
 # Recommended hardware requirements:
-2 GHZ Dual core processor or better
-
+2 GHZ Dual core processor or better<br/>
 2 GB  System memory<br/>
 1 GB  of free HDD space*<br/>
 TCP/IP access to the database, ->LAN<br/>
 *May vary depending on the size of database<br/>
-*eg. 100 Tables, 10 columns each, produces a file of approx: 50KB, in Size
-<br/>
+*eg. 100 Tables, 10 columns each, produces a file of approx: 50KB, in Size<br/>
 <br/>
 
 ## Software requirements:
