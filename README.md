@@ -3,7 +3,7 @@
 
 [Known Bugs](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/Known%20Bugs)
 
-[TODO for V1.0.2](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/TODO%20improvements)
+[TODO for V1.0.3](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/TODO%20improvements)
 
 
 # Recommended hardware requirements:
