@@ -19,8 +19,8 @@ TCP/IP access to the database, ->LAN
 
 *eg. 100 Tables, 10 columns each, produces a file of approx: 50KB, in Size
 
-                                               
- 
+# 
+
 ## Software requirements:
 -- Possibly system admin rights
 
@@ -33,7 +33,7 @@ TCP/IP access to the database, ->LAN
 -- .DLL files included with the program
 
  
- %20
+# 
  
 # Deployment
 
@@ -58,7 +58,7 @@ TCP/IP access to the database, ->LAN
 ./home/user/Downloads/V1.0.1 Release/App-V1.0.1.exe
 
  
- %20
+# 
  
 ## Built With
 
@@ -68,7 +68,7 @@ TCP/IP access to the database, ->LAN
 
 -- C# Language
 
- %20
+# 
  
 ## Versioning
 
