@@ -14,6 +14,9 @@ TCP/IP access to the database, ->LAN<br/>
 
 ## Software requirements:
 -- Possibly system admin rights<br/>
+-- Windows based OS ( Might not , or Might work on Windows ) <br/>
+-- .Net Framework 4.5 / +
+<br/>
 -- Linux based OS<br/>
 -- EG. Ubuntu [16.04.2 LTS](https://www.ubuntu.com/download)<br/>
 -- [Mono](http://www.mono-project.com/) (.Net Framework for Linux)<br/>
