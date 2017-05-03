@@ -31,7 +31,7 @@ TCP/IP access to the database, ->LAN<br/>
  
 -- Extract the package to a chosen directory<br/>
 -- Run the program from terminal (Default location*):<br/>
-./home/user/Downloads/V1.0.2 Release/App-V1.0.2.exe<br/>
+./home/user/Downloads/V1.0.3_Release/App-V1.0.3.exe<br/>
 <br/>
  
 ## Built With
