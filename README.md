@@ -1,7 +1,7 @@
 ## Downloads
-[Program](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/raw/master/V1.0.2%20release.zip)<br/>
+[Program](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/raw/master/V1.0.3%20release.zip)<br/>
 [Known Bugs](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/Known%20Bugs)<br/>
-[TODO for V1.0.3](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/TODO%20improvements)<br/>
+[TODO for V1.0.4](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/TODO%20improvements)<br/>
 <br/>
 # Recommended hardware requirements:
 2 GHZ Dual core processor or better<br/>
@@ -42,7 +42,7 @@ TCP/IP access to the database, ->LAN<br/>
 
 ## Versioning
 For the available versions, use the [github](https://github.com/VilleKokkarinen/trusty-ubuntu.git)<br/>
-Current Version: 1.0.2<br/>
+Current Version: 1.0.3<br/>
  <br/>
 ## Authors
 -- [Ville Kokkarinen](https://github.com/VilleKokkarinen) ## LINUX EDITION ##<br/>
