@@ -1,5 +1,5 @@
  TODO improvements into the
- Edition V:1.0.3
+ Edition V:1.0.4
  
  
 * Possibly a GUI
@@ -7,5 +7,3 @@
 * Improved performance
 
 * Automatic data fetching, everytime a update happens within a database, replace old file.
-
-* Add dates to the file
