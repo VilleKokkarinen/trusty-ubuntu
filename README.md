@@ -1,5 +1,5 @@
 ## Downloads
-[Program](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/raw/master/V1.0.3_release.zip)<br/>
+[Program](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/raw/master/V1.0.4_release.zip)<br/>
 [Known Bugs](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/Known%20Bugs)<br/>
 [TODO for V1.0.5](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/TODO%20improvements)<br/>
 <br/>
@@ -35,7 +35,7 @@ TCP/IP access to the database, ->LAN<br/>
  
 -- Extract the package to a chosen directory<br/>
 -- Run the program from terminal (Default location*):<br/>
-./home/user/Downloads/V1.0.3_Release/App-V1.0.3.exe<br/>
+./home/user/Downloads/V1.0.4_Release/App-V1.0.4.exe<br/>
 <br/>
  
 ## Built With
