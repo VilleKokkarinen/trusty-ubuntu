@@ -1,3 +1,9 @@
+Version 1.0.4 From 1.0.4
+
+Support for multiple Firebird bases
+Added exe to list all file names in current directory, for purposes of above line
+
+
 
 ---
 Version 1.0.3 From 1.0.2
