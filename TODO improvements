@@ -10,8 +10,8 @@
 (3)> Fix console messages in firebird side->
 
   (4)> some of them currently overlap, or don't go to the correct lines
-    > console.setcursorposition(@,@); <-
-    > console.writeline(@,@); <-
+        > console.setcursorposition(@,@); <-
+        > console.writeline(@,@); <-
   
 (5)> Remove unnecessary integers, strings.
 
@@ -19,12 +19,10 @@
 eg: Finds the line with the word(s) "Dates", then takes the string written after the "=" character on that line.
 
 (7)> Create a User "manual" of this program, (with screenshots?) ;) ->
-    > How to use, how to edit config, how to use the "NameLister.Exe"
-    > What to remember when using. (?)
+     > How to use, how to edit config, how to use the "NameLister.Exe"
+     > What to remember when using. (?)
  
   
 * Possibly a GUI
-
 * Improved performance
-
 * Automatic data fetching, everytime a update happens within a database, replace old file.
