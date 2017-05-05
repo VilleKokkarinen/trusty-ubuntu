@@ -1,24 +1,24 @@
  TODO improvements into the
  Edition V:1.0.5
  
- > Add a feature:
+ (1)> Add a feature:
  IF Data fetching fails on a database, SKIP the base. and write a .txt file with the error code & name of the database
  eg. BASE1_FAIL.txt. Then move on to the next base.
    > (Could also Hightlight the databasename in the Databases.txt File with something you can ctrl+f (## // ** \\ §§)
 
-> Fix some / check all Firebird side Try catches.
-> Fix console messages in firebird side->
+(2)> Fix some / check all Firebird side Try catches.
+(3)> Fix console messages in firebird side->
 
-  > some of them currently overlap, or don't go to the correct lines
+  (4)> some of them currently overlap, or don't go to the correct lines
     > console.setcursorposition(@,@); <-
     > console.writeline(@,@); <-
   
-> Remove unnecessary integers, strings.
+(5)> Remove unnecessary integers, strings.
 
-> Edit the config file data fetching to a specific search function, rather than line specific:
+(6)> Edit the config file data fetching to a specific search function, rather than line specific:
 eg: Finds the line with the word(s) "Dates", then takes the string written after the "=" character on that line.
 
-> Create a User "manual" of this program, (with screenshots?) ;) ->
+(7)> Create a User "manual" of this program, (with screenshots?) ;) ->
     > How to use, how to edit config, how to use the "NameLister.Exe"
     > What to remember when using. (?)
  
