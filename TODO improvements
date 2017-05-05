@@ -15,7 +15,13 @@
   
 > Remove unnecessary integers, strings.
 
-  
+> Edit the config file data fetching to a specific search function, rather than line specific:
+eg: Finds the line with the word(s) "Dates", then takes the string written after the "=" character on that line.
+
+> Create a User "manual" of this program, (with screenshots?) ;) ->
+    > How to use, how to edit config, how to use the "NameLister.Exe"
+    > What to remember when using. (?)
+ 
   
 * Possibly a GUI
 
