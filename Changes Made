@@ -3,6 +3,9 @@ MAJOR FIX TO FIREBIRD
 The program INCORRECTLY fetched DATATYPES, now gets them CORRECTLY.
 ~Only fetched the NAMES of different DATATYPES rather than the ACTUAL datatype of the column~
 
+-Now doesn't crash on failing databases. Rather creates a file with the error and moves to the next one provided
+^Is named ##FAIL##"DBNAME".txt
+
 Version 1.0.4 From 1.0.3
 
 Support for multiple Firebird bases
