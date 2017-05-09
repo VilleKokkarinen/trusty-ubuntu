@@ -1,13 +1,7 @@
  TODO improvements into the
  Edition V:1.0.6
- 
- (1)> Add a feature:
- IF Data fetching fails on a database, SKIP the base. and write a .txt file with the error code & name of the database
- eg. BASE1_FAIL.txt. Then move on to the next base.
-   > (Could also Highlight the databasename in the Databases.txt File with something you can ctrl+f (## // ** \\ §§)
-
-(2)> Fix some / check all Firebird side Try catches.
-(3)> Fix console messages in firebird side->
+  
+  (3)> Fix console messages in firebird side->
 
   (4)> some of them currently overlap, or don't go to the correct lines
         > console.setcursorposition(@,@); <-
