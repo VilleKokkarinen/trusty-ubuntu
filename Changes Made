@@ -1,4 +1,9 @@
-Version 1.0.4 From 1.0.4
+Version 1.0.5 From 1.0.4
+MAJOR FIX TO FIREBIRD
+The program INCORRECTLY fetched DATATYPES, now gets them CORRECTLY.
+~Only fetched the NAMES of different DATATYPES rather than the ACTUAL datatype of the column~
+
+Version 1.0.4 From 1.0.3
 
 Support for multiple Firebird bases
 Added exe to list all file names in current directory, for purposes of above line
