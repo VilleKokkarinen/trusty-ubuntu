@@ -1,3 +1,11 @@
+
+Version 1.0.6 From 1.0.5
+Fixes to ALOT of try catches on all parts of the program
+Fixed some spinner console locations (x,y)
+Added Naming failed (defined on below edit) databases also to SQL side
+
+
+
 Version 1.0.5 From 1.0.4
 MAJOR FIX TO FIREBIRD
 The program INCORRECTLY fetched DATATYPES, now gets them CORRECTLY.
