@@ -1,7 +1,7 @@
 ## Downloads
-[Program](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/raw/master/V1.0.4_release.zip)<br/>
+[Program](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/raw/master/V1.0.5_release.zip)<br/>
 [Known Bugs](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/Known%20Bugs)<br/>
-[TODO for V1.0.5](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/TODO%20improvements)<br/>
+[TODO for V1.0.6](https://github.com/VilleKokkarinen/VilleKokkarinen.github.io/blob/master/TODO%20improvements)<br/>
 <br/>
 # Recommended hardware requirements:
 2 GHZ Dual core processor or better<br/>
@@ -35,7 +35,7 @@ TCP/IP access to the database, ->LAN<br/>
  
 -- Extract the package to a chosen directory<br/>
 -- Run the program from terminal (Default location*):<br/>
-./home/user/Downloads/V1.0.4_Release/App-V1.0.4.exe<br/>
+./home/user/Downloads/V1.0.5_Release/App-V1.0.5.exe<br/>
 <br/>
  
 ## Built With
@@ -46,7 +46,7 @@ TCP/IP access to the database, ->LAN<br/>
 
 ## Versioning
 For the available versions, use the [github](https://github.com/VilleKokkarinen/trusty-ubuntu.git)<br/>
-Current Version: 1.0.4<br/>
+Current Version: 1.0.5<br/>
  <br/>
 ## Authors
 -- [Ville Kokkarinen](https://github.com/VilleKokkarinen) ## LINUX EDITION ##<br/>
