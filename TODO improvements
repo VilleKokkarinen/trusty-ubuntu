@@ -1,5 +1,5 @@
  TODO improvements into the
- Edition V:1.0.5
+ Edition V:1.0.6
  
  (1)> Add a feature:
  IF Data fetching fails on a database, SKIP the base. and write a .txt file with the error code & name of the database
