@@ -1,13 +1,6 @@
  TODO improvements into the
  Edition V:1.0.6
   
-  (3)> Fix console messages in firebird side->
-
-  (4)> some of them currently overlap, or don't go to the correct lines
-        > console.setcursorposition(@,@); <-
-        > console.writeline(@,@); <-
-  
-(5)> Remove unnecessary integers, strings.
 
 (6)> Edit the config file data fetching to a specific search function, rather than line specific:
 eg: Finds the line with the word(s) "Dates", then takes the string written after the "=" character on that line.
